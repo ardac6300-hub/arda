@@ -1,0 +1,1 @@
+{"server": "Frankfurt","resource_override": {"max_connections": 100,"timeout": 30}}
